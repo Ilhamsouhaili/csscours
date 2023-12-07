@@ -1,0 +1,18 @@
+header{
+    text-align: center;
+}
+header img{
+    border-radius: 20px;
+}
+nav{
+    text-align: center;
+
+   
+}
+header nav ul li a{
+    text-decoration: none;
+}
+main{
+    text-align: center;
+    border: 1px solid salmon;
+}
